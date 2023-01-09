@@ -4,9 +4,9 @@ import  requests
 
 head={
     "Host": "search5-noneu.truecaller.com",
-    "authorization": "Bearer a1i0j--SzcjdRk4kWGdR84ri9ct_XKaOYlQ3tNnS1SmJfIX30whjJaJPS5yl5blt",
+    "authorization": "Bearer a1i01--TU-jKXkAkHSBQTsbxUUlonfO_fm8M9WFnCbImysMQp5oLbHFxF6-4_P2N",
     "accept-encoding": "gzip",
-    "user-agent": "Truecaller/11.66.7 (Android;10)"
+    "user-agent": "Truecaller/12.59.7 (Android;9)"
  } 
   
 def main(num):
